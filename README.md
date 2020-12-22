@@ -4,6 +4,7 @@
 
 服务器存储容量需要为数据本身至少2.5倍(es建立索引),需要python版本3.6+
 
+
 二:使用方法
 
 1:安装elasticsearch5.5.3(需要java版本11及以下,另外还需要下载es_ik中文分词插件)
@@ -44,3 +45,5 @@ python manage.py rebuild_index
 python manage.py runserver 0.0.0.0:8000
 
 5:根据上一步的提示网页访问web端口
+
+作者QQ：1042594286
